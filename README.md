@@ -1,2 +1,2 @@
 # first-course-rmt
-Solutions to selected exercises from Potter's "A First Course in Random Matrix Theory."
+My attempts at exercises from Potter's "A First Course in Random Matrix Theory."
